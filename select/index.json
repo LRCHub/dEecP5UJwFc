@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Jojo",
+  "base_artist": "Boz Scaggs",
+  "createdAt": "2026-03-03T12:56:43.701218Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Ballade für Jojo",
+      "artist": "Prinz Pi",
+      "has_synced": true,
+      "path": "select/01_Ballade_für_Jojo_Prinz_Pi.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Ballade für Jojo (Instrumental)",
+      "artist": "Prinz Pi",
+      "has_synced": false,
+      "path": "select/02_Ballade_für_Jojo_(Instrumental)_Prinz_Pi.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Wasup JoJo",
+      "artist": "Lil B",
+      "has_synced": false,
+      "path": "select/03_Wasup_JoJo_Lil_B.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Black Girl Lost (feat. JoJo Hailey)",
+      "artist": "Nas feat. Jo Jo Hailey",
+      "has_synced": true,
+      "path": "select/04_Black_Girl_Lost_(feat._JoJo_Hailey)_Nas_feat._Jo_Jo_Hailey.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Royalty (feat. K-Ci & JoJo)",
+      "artist": "Gang Starr",
+      "has_synced": true,
+      "path": "select/05_Royalty_(feat._K-Ci_&_JoJo)_Gang_Starr.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "02-jojo-i_can_take_you_there",
+      "artist": "Jojo",
+      "has_synced": true,
+      "path": "select/06_02-jojo-i_can_take_you_there_Jojo.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "03-jojo-too_little_too_late_(spanish_version)",
+      "artist": "Jojo",
+      "has_synced": false,
+      "path": "select/07_03-jojo-too_little_too_late_(spanish_version)_Jojo.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Kittin Is High (JoJo De Freq's Beauty Is Terror Remix)",
+      "artist": "Miss Kittin",
+      "has_synced": false,
+      "path": "select/08_Kittin_Is_High_(JoJo_De_Freq's_Beauty_Is_Terror_Remix)_Miss_Kittin.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Jojo Sono Chino Sadame",
+      "artist": "HIROAKI TOMMY TOMINAGA",
+      "has_synced": false,
+      "path": "select/09_Jojo_Sono_Chino_Sadame_HIROAKI_TOMMY_TOMINAGA.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "JoJo Sonochino Kioku~end of THE WORLD~",
+      "artist": "JO☆STARS 〜TOMMY,Coda,JIN〜",
+      "has_synced": true,
+      "path": "select/10_JoJo_Sonochino_Kioku~end_of_THE_WORLD~_JO☆STARS_〜TOMMY,Coda,JIN〜.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Black Girl Lost (feat. JoJo Hailey)",
+      "artist": "Nas",
+      "has_synced": true,
+      "path": "select/11_Black_Girl_Lost_(feat._JoJo_Hailey)_Nas.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Jojo ~Sono Chi no Sadame~",
+      "artist": "Tominaga TOMMY Hiroaki",
+      "has_synced": true,
+      "path": "select/12_Jojo_~Sono_Chi_no_Sadame~_Tominaga_TOMMY_Hiroaki.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Jojo Sono Chino Sadame",
+      "artist": "HIROAKI TOMMY TOMINAGA",
+      "has_synced": true,
+      "path": "select/13_Jojo_Sono_Chino_Sadame_HIROAKI_TOMMY_TOMINAGA.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "How Do You Want It (Feat. Kci & Jojo)",
+      "artist": "2Pac",
+      "has_synced": true,
+      "path": "select/14_How_Do_You_Want_It_(Feat._Kci_&_Jojo)_2Pac.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "How Do U Want It (feat. K-Ci & JoJo)",
+      "artist": "2Pac",
+      "has_synced": true,
+      "path": "select/15_How_Do_U_Want_It_(feat._K-Ci_&_JoJo)_2Pac.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "JoJo",
+      "artist": "Boz Scaggs",
+      "has_synced": true,
+      "path": "select/16_JoJo_Boz_Scaggs.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "JoJo",
+      "artist": "Boz Scaggs",
+      "has_synced": false,
+      "path": "select/pl_01_JoJo_Boz_Scaggs.txt"
+    }
+  ]
+}
